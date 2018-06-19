@@ -1,30 +1,10 @@
-# decorating-vue
+# Decorating Vue
 
-> A Vue.js project
+> A sample way of decorating your Vue project with ES7 decorators
 
-## Build Setup
+## TL;DR
 
-``` bash
-# install dependencies
-npm install
+This repo is a part of a Vue talk I held in June at VueSydney. Feel free to check out the resources below:
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* [Slides](https://docs.google.com/presentation/d/1L1j8QV3eR4uB3syhEvPf3TLuhNhA34ytl54vbnaTiws/edit#slide=id.p)
+* [Tutorial](http://bit.ly/decorating-vue)
